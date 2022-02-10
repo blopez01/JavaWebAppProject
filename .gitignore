@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+.ENV
+target
+cs4743-fall-2021.iml
+logs
